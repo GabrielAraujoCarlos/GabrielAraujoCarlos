@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielAraujoCarlos
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning Algorithms
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently working on a data analyst case study
 - 📫 How to reach me gabriel.araujo.carlos@gmail.com
 
 <!---
